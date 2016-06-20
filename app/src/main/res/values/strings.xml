@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FastFit</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">Este é um projeto desenvolvido pela turma de PR3, do instituto de tecnlogia ORT, no ano de 2016. O aplicativo
+        tem como objetivo de proporcionar para o usuário o número mínimo necessário de calorias que esta pessoa precisa diariamente,
+        utilizando o famoso método Harris-Benedict.</string>
+    <string name="title">FastFit</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
